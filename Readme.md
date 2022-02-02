@@ -1,0 +1,1 @@
+Jogo feito no primeiro período da faculdade de Ciência da Computação na disciplina de Algoritmos e Programação, na linguagem C++ utilizando estruturas de controle, estrutura de dados, estruturas de decisão, estruturas de repetição, arrays e matrizes.
